@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Atai");
         System.out.println("Bektenaliev");
         System.out.println("Sakebaevich");
+        System.out.println("I am 16");
     }
 }
